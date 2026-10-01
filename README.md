@@ -17,3 +17,7 @@ Practice repository for the Open Source Software course.
 | --- | --- |
 | git status | Inspect file states |
 | git add | Stage changes |
+
+## Remote update
+
+This sentence was added on GitHub.
