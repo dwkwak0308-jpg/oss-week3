@@ -1,11 +1,19 @@
 # OSS Week 3
 
-Practice repository for Open Source Software class.
+Practice repository for the Open Source Software course.
 
-## Topics
- Git
-GitHub
-Version Control
-git add
-## Git Commands
-- git add: stage files for the next commit
+## Working with Git
+
+- Inspect file status
+- Stage changes
+- Record commits
+- Modify files and check status
+
+*Save the file* before checking its status.
+
+**A commit records staged content.**
+
+| Command | Purpose |
+| --- | --- |
+| git status | Inspect file states |
+| git add | Stage changes |
