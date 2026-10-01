@@ -7,3 +7,5 @@ Practice repository for Open Source Software class.
 GitHub
 Version Control
 git add
+## Git Commands
+- git add: stage files for the next commit
