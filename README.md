@@ -20,4 +20,4 @@ Practice repository for the Open Source Software course.
 
 ## Remote update
 
-This sentence was added on GitHub.
+This sentence was aded on GitHub.
